@@ -7,7 +7,7 @@
             { "id" : 2, "text" : "Procedural" },
             { "id" : 3, "text" : "None of the above" }            
         ],
-        "correct"  : 1,
+        "correct"  : 0,
 		"feedback" : "Javascript is an Object-Oriented language."
     },
 	{
