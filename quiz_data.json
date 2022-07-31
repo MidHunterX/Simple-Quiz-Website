@@ -1,0 +1,56 @@
+[
+    {
+        "question" : "Javascript is an ______ language.",
+        "answers"  : [
+            { "id" : 0, "text" : "Object-Oriented" },
+            { "id" : 1, "text" : "Object-Based" },
+            { "id" : 2, "text" : "Procedural" },
+            { "id" : 3, "text" : "None of the above" }            
+        ],
+        "correct"  : 1,
+		"feedback" : "Javascript is an Object-Oriented language."
+    },
+	{
+		"question" : "Which of the following is the logo of Javascript?",
+		"answers"  : [
+			{"id"  : 0, "image" : "images/close_up_01.jpg" },
+			{"id"  : 1, "image" : "images/close_up_02.jpg" },
+			{"id"  : 2, "image" : "images/close_up_03.jpg" },
+			{"id"  : 3, "image" : "images/close_up_04.jpg" }
+		],
+		"correct"  : 3
+	},
+	{
+		"question" : "Which of the following keywords is used to define a variable in Javascript?",
+		"answers"  : [
+			{"id"  : 0, "text" : "var"},
+			{"id"  : 1, "text" : "let"},
+			{"id"  : 2, "text" : "Both A and B"},
+			{"id"  : 3, "text" : "None of the above"}
+		],
+		"correct"  : 2,
+		"feedback" : "Both var and let keywords are used to define a variable in Javascript."
+	},
+	{
+		"question" : "Which of the following methods is used to access HTML elements using Javascript?",
+		"answers"  : [
+			{"id"  : 0, "text" : "getElementbyId()"},
+			{"id"  : 1, "text" : "getElementbyClassName()"},
+			{"id"  : 2, "text" : "Both A and B"},
+			{"id"  : 3, "text" : "None of the above"}
+		],
+		"correct"  : 2,
+		"feedback" : "Both the above methods are used to access HTML elements using Javascript."
+	},
+	{
+		"question" : "Upon encountering empty statements, what does the Javascript Interpreter do?",
+		"answers"  : [
+			{"id"  : 0, "text" : "There is an error"},
+			{"id"  : 1, "text" : "Ignores the statements"},
+			{"id"  : 2, "text" : "Gives a warning"},
+			{"id"  : 3, "text" : "None of the above"}
+		],
+		"correct"  : 1,
+		"feedback" : "In Javascript, the interpreter will ignore the empty statements whenever it encounters them."
+	}    
+]
